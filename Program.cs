@@ -21,4 +21,8 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+// Add a simple health check endpoint
+app.MapGet("/health", () => "PlanKrypto is running!");
+app.MapGet("/api/status", () => new { status = "OK", timestamp = DateTime.UtcNow });
+
 app.Run();

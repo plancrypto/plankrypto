@@ -29,3 +29,10 @@ C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\PlanKryptoWeb.pdb
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\PlanKryptoWeb.genruntimeconfig.cache
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\ref\PlanKryptoWeb.dll
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\web.config
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\PlanKryptoWeb.deps.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\PlanKryptoWeb.runtimeconfig.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\PlanKryptoWeb.staticwebassets.endpoints.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\railway.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\PlanKryptoWeb.sourcelink.json
