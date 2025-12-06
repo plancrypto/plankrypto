@@ -1,0 +1,11 @@
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\PlanKryptoWeb.exe
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\publish\web.config
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\appsettings.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\publish\PlanKryptoWeb.deps.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\publish\PlanKryptoWeb.runtimeconfig.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\publish\PlanKryptoWeb.staticwebassets.endpoints.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\PlanKryptoWeb.dll
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\PlanKryptoWeb.deps.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\PlanKryptoWeb.runtimeconfig.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Release\net9.0\publish\PlanKryptoWeb.pdb
