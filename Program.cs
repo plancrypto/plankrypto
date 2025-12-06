@@ -21,8 +21,10 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
-// Add a simple health check endpoint
+// Add diagnostic endpoints
 app.MapGet("/health", () => "PlanKrypto is running!");
 app.MapGet("/api/status", () => new { status = "OK", timestamp = DateTime.UtcNow });
+app.MapGet("/test", () => "Test endpoint working!");
+app.MapGet("/", () => "Root endpoint - Razor Pages should handle this");
 
 app.Run();
