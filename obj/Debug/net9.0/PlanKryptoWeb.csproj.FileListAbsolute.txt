@@ -36,3 +36,4 @@ C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\publish\PlanKryptoWeb.staticwebassets.endpoints.json
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\bin\Debug\net9.0\railway.json
 C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\PlanKryptoWeb.sourcelink.json
+C:\Users\frztw\Documents\Development\PlanKrypto\PlanKryptoWeb\PlanKryptoWeb\obj\Debug\net9.0\compressed\aetl0liows-{0}-4venhoql6p-4venhoql6p.gz

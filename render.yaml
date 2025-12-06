@@ -1,0 +1,11 @@
+version: "1"
+services:
+  - type: web
+    name: plankrypto
+    runtime: docker
+    plan: free
+    buildCommand: docker build -t plankrypto .
+    startCommand: dotnet PlanKryptoWeb.dll
+    envVars:
+      - key: ASPNETCORE_URLS
+        value: http://0.0.0.0:10000

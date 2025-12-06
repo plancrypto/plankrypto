@@ -1,8 +1,14 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Configure for Railway deployment
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+// Configure for cloud deployment (Azure App Service, Railway, etc.)
+var port = Environment.GetEnvironmentVariable("PORT") ?? 
+           Environment.GetEnvironmentVariable("WEBSITES_PORT") ?? "8080";
+
+// Azure App Service expects apps to listen on all interfaces
+if (!builder.Environment.IsDevelopment())
+{
+    builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+}
 
 builder.Services.AddRazorPages();
 
