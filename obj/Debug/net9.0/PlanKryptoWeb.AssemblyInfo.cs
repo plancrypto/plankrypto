@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanKryptoWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b14b43366d889ec2b3b623a8268b6373d20b8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanKryptoWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanKryptoWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
